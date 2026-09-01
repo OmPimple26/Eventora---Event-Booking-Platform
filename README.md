@@ -6,8 +6,19 @@ Eventora is a **full-stack MERN event booking platform** designed to simplify ev
 
 ## 🌐 Live Demo
 
-- 🎨 Frontend: https://your-eventora.vercel.app
-- ⚙️ Backend API: https://your-eventora-api.onrender.com
+- 🎨 Frontend: https://eventora-frontend-alpha.vercel.app/
+- ⚙️ Backend API: https://eventora-backend-70xp.onrender.com/
+
+---
+
+## 🔑 Demo Admin Credentials
+
+The **Admin Dashboard** is accessible only to authorized admin users.
+
+- 📧 **Email:** `admin@eventora.com`
+- 🔐 **Password:** `password123`
+
+> ⚠️ These credentials are provided for demonstration and testing purposes only.
 
 ---
 
